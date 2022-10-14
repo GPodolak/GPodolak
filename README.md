@@ -17,8 +17,8 @@ Olá, Sou Guilherme Podolak e estou trilhando o caminho para me tornar um desenv
   <img align="center" alt="Podolak-Git" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Podolak-vs" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Podolak-LINT" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg">
-  <img align="center" alt="Podolak-Node" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">         <img align="center" alt="Podolak-docker" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Podolak-Mysql" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Podolak-Node" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">         <img align="center" alt="Podolak-docker" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Podolak-Mysql" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
       
 </div>
